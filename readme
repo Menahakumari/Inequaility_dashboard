@@ -17,10 +17,3 @@ This project analyzes global socioeconomic data using Power BI to uncover insigh
 - Higher education levels correlate with lower income inequality
 - Migration trends vary significantly across regions
 
-## 🖼️ Dashboard Preview
-
-![Dashboard](images/dashboard1.png)
-![Dashboard](images/dashboard2.png)
-
-## 📂 Files
-- `dashboard.pbix` – Power BI file
